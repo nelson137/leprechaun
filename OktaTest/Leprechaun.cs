@@ -35,7 +35,7 @@ namespace OktaTest
         private static async Task<string> GetOktaSessionToken()
         {
             var uri = "https://vu.okta.com/api/v1/authn";
-            var response = await new HttpClient().PostJsonAsync<J_AuthResponse>(uri, new
+            var response = await new HttpClient().PostJsonAsync<AuthResponse>(uri, new
             {
                 username = _username,
                 password = _password,
