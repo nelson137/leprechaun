@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaTest", "OktaTest\OktaTest.csproj", "{37A486FD-5FA8-409F-ACA4-C3EEFE6F43D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A486FD-5FA8-409F-ACA4-C3EEFE6F43D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A486FD-5FA8-409F-ACA4-C3EEFE6F43D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A486FD-5FA8-409F-ACA4-C3EEFE6F43D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A486FD-5FA8-409F-ACA4-C3EEFE6F43D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFD6F2A-86B5-4565-B67C-F44C1ACFB366}
+	EndGlobalSection
+EndGlobal
